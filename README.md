@@ -1,8 +1,7 @@
 -  Hi, I’m @Ryannalbach
--  I’m interested in science, technology, nature, and life in general 
--  I am a Chef by profession
--  I’m currently learning computer science through edx
--  I’m looking to collaborate on anything to do with FINTECH or blockchain technologies
+-  I’m interested in science, technology, nature, philosophy, and life in general
+-  I’m currently learning computer science through a cohort program at MIT
+-  
 -  You can reach me at Ryannalbach@solsticecanyoninternational.com
 
 <!---

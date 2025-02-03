@@ -2,7 +2,7 @@
 -  I’m interested in science, technology, nature, philosophy, and life in general
 -  MIT MERN stack grad
 -  Quantitative Reasoning degree for mathematics
--  Pursuing an ELectrical Engineering degree from CSU Chico
+-  Pursuing an Electrical Engineering degree from CSU Chico
 -  
 -  You can reach me at Ryan@solsticecanyoninc.com
 

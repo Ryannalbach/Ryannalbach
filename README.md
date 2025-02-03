@@ -1,8 +1,10 @@
 -  Hi, I’m @Ryannalbach
 -  I’m interested in science, technology, nature, philosophy, and life in general
--  I’m currently learning computer science through a cohort program at MIT
+-  MIT MERN stack grad
+-  Quantitative Reasoning degree for mathematics
+-  Pursuing an ELectrical Engineering degree from CSU Chico
 -  
--  You can reach me at Ryannalbach@solsticecanyoninternational.com
+-  You can reach me at Ryan@solsticecanyoninc.com
 
 <!---
 Ryannalbach/Ryannalbach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
